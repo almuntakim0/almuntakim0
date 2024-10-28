@@ -1,4 +1,4 @@
-![I am almuntakim0](https://github.com/almuntakim0/almuntakim0/blob/main/code.png)
+![I am almuntakim0](https://drive.google.com/file/d/10tR8--n6SbyjsSylib8Pafw3yToxkohy/view?usp=drivesdk)
 
 <h1 align="center">Hi 👋, I'm AL MUNTAKIM</h1>
 <h3 align="center">Web developer</h3>
