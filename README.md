@@ -19,8 +19,6 @@ Skills: HTML / CSS
 
 - 📫 How to reach me **programmerharun@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
-
 <h3 align="left">Available on  ↓</h3>
 
 <p align="center">
